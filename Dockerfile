@@ -1,4 +1,4 @@
 FROM openjdk:15
-COPY ./target/miniCalculator-1.0-SNAPSHOT.jar ./
+COPY ./target/miniCalculator-1.0-SNAPSHOT-jar-with-dependencies.jar ./
 WORKDIR ./
-CMD ["java", "-cp", "miniCalculator1-1.0-SNAPSHOT.jar", "miniCalculator"]
+CMD ["java", "-cp", "miniCalculator-1.0-SNAPSHOT-jar-with-dependencies.jar", "miniCalculator"]
