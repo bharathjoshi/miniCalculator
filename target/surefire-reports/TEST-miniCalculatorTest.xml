@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="miniCalculatorTest" time="0.009" errors="0" skipped="0">
+<testsuite tests="8" failures="0" name="miniCalculatorTest" time="1.462" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_321.jdk/Contents/Home/jre/lib"/>
@@ -65,5 +65,12 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="miniCalculatorTest" name="sqrt" time="0.009"/>
+  <testcase classname="miniCalculatorTest" name="factorialFalsePositive" time="1.452"/>
+  <testcase classname="miniCalculatorTest" name="squareRootTruePositive" time="0.001"/>
+  <testcase classname="miniCalculatorTest" name="naturalLogarithmTruePositive" time="0"/>
+  <testcase classname="miniCalculatorTest" name="squareRootFalsePositive" time="0.001"/>
+  <testcase classname="miniCalculatorTest" name="naturalLogarithmFalsePositive" time="0"/>
+  <testcase classname="miniCalculatorTest" name="factorialTruePositive" time="0.001"/>
+  <testcase classname="miniCalculatorTest" name="powerFalsePositive" time="0.007"/>
+  <testcase classname="miniCalculatorTest" name="powerTruePositive" time="0"/>
 </testsuite>
