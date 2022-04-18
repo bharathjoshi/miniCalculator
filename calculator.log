@@ -1,0 +1,259 @@
+2022-04-16 14:14:58.752 [main] INFO  miniCalculator - [INFO] inside sqrt function. input n=4.0
+2022-04-16 14:37:18.766 [main] INFO  miniCalculator - [INFO] inside sqrt function. input n=4.0
+2022-04-16 14:38:10.067 [main] INFO  miniCalculator - [INFO] input = 1
+2022-04-16 14:38:13.080 [main] INFO  miniCalculator - [INFO] inside sqrt function. input n=4.0
+2022-04-16 14:38:15.757 [main] INFO  miniCalculator - [INFO] input = 5
+2022-04-16 15:14:07.089 [main] INFO  miniCalculator - [INFO]: input for Square Root: 4.0
+2022-04-16 15:14:07.095 [main] INFO  miniCalculator - [INFO]: output of Square Root: 2.0
+2022-04-16 15:14:22.092 [main] INFO  miniCalculator - [INFO]: Input for Factorial function: 10.0
+2022-04-16 15:14:22.096 [main] INFO  miniCalculator - [INFO]: output of Factorial function: 3628800.0
+2022-04-16 15:14:33.530 [main] ERROR miniCalculator - [ERROR]: Factorial is not defined for negative numbers
+2022-04-16 15:14:44.236 [main] ERROR miniCalculator - [ERROR]: Value type mismatch. Expected Integer got some other type. Please enter again. Thank you :)
+2022-04-16 16:50:47.771 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 2.0
+2022-04-16 16:50:47.778 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 2.0
+2022-04-16 16:50:47.778 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 0.0
+2022-04-16 16:50:47.787 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 1.0
+2022-04-16 16:50:47.789 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 16.0
+2022-04-16 16:50:47.789 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 4.0
+2022-04-16 16:50:47.789 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 256.0
+2022-04-16 16:50:47.790 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 16.0
+2022-04-16 16:50:47.790 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 10.0
+2022-04-16 16:50:47.791 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 2.302585092994046
+2022-04-16 16:50:47.791 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 100.0
+2022-04-16 16:50:47.791 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 4.605170185988092
+2022-04-16 16:50:47.792 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 4.0
+2022-04-16 16:50:47.792 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 2.0
+2022-04-16 16:50:47.792 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 16.0
+2022-04-16 16:50:47.793 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 4.0
+2022-04-16 16:50:47.794 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 100.0
+2022-04-16 16:50:47.794 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 4.605170185988092
+2022-04-16 16:50:47.794 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 10.0
+2022-04-16 16:50:47.795 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 2.302585092994046
+2022-04-16 16:50:47.795 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 3.0
+2022-04-16 16:50:47.796 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 6.0
+2022-04-16 16:50:47.796 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 4.0
+2022-04-16 16:50:47.796 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 24.0
+2022-04-16 16:50:47.797 [main] INFO  miniCalculator - [INFO]: Input for the power function: 4.0 , 2.0
+2022-04-16 16:50:47.797 [main] INFO  miniCalculator - [INFO]: Output of the power function: 16.0
+2022-04-16 16:50:47.798 [main] INFO  miniCalculator - [INFO]: Input for the power function: 0.0 , 0.0
+2022-04-16 16:50:47.798 [main] INFO  miniCalculator - [INFO]: Output of the power function: NaN
+2022-04-16 16:50:47.799 [main] INFO  miniCalculator - [INFO]: Input for the power function: 4.0 , 2.0
+2022-04-16 16:50:47.799 [main] INFO  miniCalculator - [INFO]: Output of the power function: 16.0
+2022-04-16 16:50:47.800 [main] INFO  miniCalculator - [INFO]: Input for the power function: 0.0 , 0.0
+2022-04-16 16:50:47.800 [main] INFO  miniCalculator - [INFO]: Output of the power function: NaN
+2022-04-16 16:52:37.591 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 2.0
+2022-04-16 16:52:37.599 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 2.0
+2022-04-16 16:52:37.599 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 0.0
+2022-04-16 16:52:37.610 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 1.0
+2022-04-16 16:52:37.612 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 16.0
+2022-04-16 16:52:37.612 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 4.0
+2022-04-16 16:52:37.612 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 256.0
+2022-04-16 16:52:37.613 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 16.0
+2022-04-16 16:52:37.613 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 10.0
+2022-04-16 16:52:37.613 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 2.302585092994046
+2022-04-16 16:52:37.614 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 100.0
+2022-04-16 16:52:37.614 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 4.605170185988092
+2022-04-16 16:52:37.615 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 4.0
+2022-04-16 16:52:37.615 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 2.0
+2022-04-16 16:52:37.615 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 16.0
+2022-04-16 16:52:37.615 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 4.0
+2022-04-16 16:52:37.616 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 100.0
+2022-04-16 16:52:37.617 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 4.605170185988092
+2022-04-16 16:52:37.617 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 10.0
+2022-04-16 16:52:37.618 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 2.302585092994046
+2022-04-16 16:52:37.618 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 3.0
+2022-04-16 16:52:37.619 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 6.0
+2022-04-16 16:52:37.619 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 4.0
+2022-04-16 16:52:37.619 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 24.0
+2022-04-16 16:52:37.620 [main] INFO  miniCalculator - [INFO]: Input for the power function: 4.0 , 2.0
+2022-04-16 16:52:37.620 [main] INFO  miniCalculator - [INFO]: Output of the power function: 16.0
+2022-04-16 16:52:37.620 [main] INFO  miniCalculator - [INFO]: Input for the power function: 0.0 , 0.0
+2022-04-16 16:52:37.621 [main] INFO  miniCalculator - [INFO]: Output of the power function: NaN
+2022-04-16 16:52:37.623 [main] INFO  miniCalculator - [INFO]: Input for the power function: 4.0 , 2.0
+2022-04-16 16:52:37.623 [main] INFO  miniCalculator - [INFO]: Output of the power function: 16.0
+2022-04-16 16:52:37.623 [main] INFO  miniCalculator - [INFO]: Input for the power function: 0.0 , 0.0
+2022-04-16 16:52:37.623 [main] INFO  miniCalculator - [INFO]: Output of the power function: NaN
+2022-04-16 16:57:42.872 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 10.0
+2022-04-16 16:57:42.874 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 3.1622776601683795
+2022-04-16 16:57:50.199 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 10.0
+2022-04-16 16:57:50.200 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 3628800.0
+2022-04-16 16:57:56.450 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 10.0
+2022-04-16 16:57:56.451 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 2.302585092994046
+2022-04-16 16:58:01.749 [main] INFO  miniCalculator - [INFO]: Input for the power function: 10.0 , 10.0
+2022-04-16 16:58:01.750 [main] INFO  miniCalculator - [INFO]: Output of the power function: 1.0E10
+2022-04-16 16:58:07.555 [main] ERROR miniCalculator - [ERROR]: Square root is defined only for Positive numbers
+2022-04-16 16:59:11.377 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 2.0
+2022-04-16 16:59:11.386 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 2.0
+2022-04-16 16:59:11.445 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 0.0
+2022-04-16 16:59:11.447 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 1.0
+2022-04-16 16:59:11.449 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 16.0
+2022-04-16 16:59:11.449 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 4.0
+2022-04-16 16:59:11.465 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 256.0
+2022-04-16 16:59:11.465 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 16.0
+2022-04-16 16:59:11.476 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 10.0
+2022-04-16 16:59:11.477 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 2.302585092994046
+2022-04-16 16:59:11.477 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 100.0
+2022-04-16 16:59:11.477 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 4.605170185988092
+2022-04-16 16:59:11.484 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 4.0
+2022-04-16 16:59:11.487 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 2.0
+2022-04-16 16:59:11.490 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 16.0
+2022-04-16 16:59:11.490 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 4.0
+2022-04-16 16:59:11.492 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 100.0
+2022-04-16 16:59:11.492 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 4.605170185988092
+2022-04-16 16:59:11.493 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 10.0
+2022-04-16 16:59:11.494 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 2.302585092994046
+2022-04-16 16:59:11.495 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 3.0
+2022-04-16 16:59:11.495 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 6.0
+2022-04-16 16:59:11.497 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 4.0
+2022-04-16 16:59:11.498 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 24.0
+2022-04-16 16:59:11.499 [main] INFO  miniCalculator - [INFO]: Input for the power function: 4.0 , 2.0
+2022-04-16 16:59:11.500 [main] INFO  miniCalculator - [INFO]: Output of the power function: 16.0
+2022-04-16 16:59:11.501 [main] INFO  miniCalculator - [INFO]: Input for the power function: 0.0 , 0.0
+2022-04-16 16:59:11.502 [main] INFO  miniCalculator - [INFO]: Output of the power function: NaN
+2022-04-16 16:59:11.515 [main] INFO  miniCalculator - [INFO]: Input for the power function: 4.0 , 2.0
+2022-04-16 16:59:11.515 [main] INFO  miniCalculator - [INFO]: Output of the power function: 16.0
+2022-04-16 16:59:11.516 [main] INFO  miniCalculator - [INFO]: Input for the power function: 0.0 , 0.0
+2022-04-16 16:59:11.516 [main] INFO  miniCalculator - [INFO]: Output of the power function: NaN
+2022-04-16 16:59:25.834 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 2.0
+2022-04-16 16:59:25.839 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 2.0
+2022-04-16 16:59:25.840 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 0.0
+2022-04-16 16:59:25.853 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 1.0
+2022-04-16 16:59:25.855 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 16.0
+2022-04-16 16:59:25.856 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 4.0
+2022-04-16 16:59:25.856 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 256.0
+2022-04-16 16:59:25.857 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 16.0
+2022-04-16 16:59:25.857 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 10.0
+2022-04-16 16:59:25.858 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 2.302585092994046
+2022-04-16 16:59:25.858 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 100.0
+2022-04-16 16:59:25.859 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 4.605170185988092
+2022-04-16 16:59:25.859 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 4.0
+2022-04-16 16:59:25.860 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 2.0
+2022-04-16 16:59:25.860 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 16.0
+2022-04-16 16:59:25.861 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 4.0
+2022-04-16 16:59:25.861 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 100.0
+2022-04-16 16:59:25.862 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 4.605170185988092
+2022-04-16 16:59:25.863 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 10.0
+2022-04-16 16:59:25.863 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 2.302585092994046
+2022-04-16 16:59:25.865 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 3.0
+2022-04-16 16:59:25.865 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 6.0
+2022-04-16 16:59:25.865 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 4.0
+2022-04-16 16:59:25.866 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 24.0
+2022-04-16 16:59:25.867 [main] INFO  miniCalculator - [INFO]: Input for the power function: 4.0 , 2.0
+2022-04-16 16:59:25.868 [main] INFO  miniCalculator - [INFO]: Output of the power function: 16.0
+2022-04-16 16:59:25.868 [main] INFO  miniCalculator - [INFO]: Input for the power function: 0.0 , 0.0
+2022-04-16 16:59:25.868 [main] INFO  miniCalculator - [INFO]: Output of the power function: NaN
+2022-04-16 16:59:25.869 [main] INFO  miniCalculator - [INFO]: Input for the power function: 4.0 , 2.0
+2022-04-16 16:59:25.869 [main] INFO  miniCalculator - [INFO]: Output of the power function: 16.0
+2022-04-16 16:59:25.869 [main] INFO  miniCalculator - [INFO]: Input for the power function: 0.0 , 0.0
+2022-04-16 16:59:25.870 [main] INFO  miniCalculator - [INFO]: Output of the power function: NaN
+2022-04-16 16:59:54.503 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 2.0
+2022-04-16 16:59:54.508 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 2.0
+2022-04-16 16:59:54.523 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 0.0
+2022-04-16 16:59:54.523 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 1.0
+2022-04-16 16:59:54.527 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 16.0
+2022-04-16 16:59:54.527 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 4.0
+2022-04-16 16:59:54.528 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 256.0
+2022-04-16 16:59:54.529 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 16.0
+2022-04-16 16:59:54.529 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 10.0
+2022-04-16 16:59:54.530 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 2.302585092994046
+2022-04-16 16:59:54.530 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 100.0
+2022-04-16 16:59:54.531 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 4.605170185988092
+2022-04-16 16:59:54.531 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 4.0
+2022-04-16 16:59:54.532 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 2.0
+2022-04-16 16:59:54.532 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 16.0
+2022-04-16 16:59:54.532 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 4.0
+2022-04-16 16:59:54.533 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 100.0
+2022-04-16 16:59:54.534 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 4.605170185988092
+2022-04-16 16:59:54.534 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 10.0
+2022-04-16 16:59:54.535 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 2.302585092994046
+2022-04-16 16:59:54.536 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 3.0
+2022-04-16 16:59:54.536 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 6.0
+2022-04-16 16:59:54.537 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 4.0
+2022-04-16 16:59:54.537 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 24.0
+2022-04-16 16:59:54.538 [main] INFO  miniCalculator - [INFO]: Input for the power function: 4.0 , 2.0
+2022-04-16 16:59:54.538 [main] INFO  miniCalculator - [INFO]: Output of the power function: 16.0
+2022-04-16 16:59:54.538 [main] INFO  miniCalculator - [INFO]: Input for the power function: 0.0 , 0.0
+2022-04-16 16:59:54.538 [main] INFO  miniCalculator - [INFO]: Output of the power function: NaN
+2022-04-16 16:59:54.539 [main] INFO  miniCalculator - [INFO]: Input for the power function: 4.0 , 2.0
+2022-04-16 16:59:54.539 [main] INFO  miniCalculator - [INFO]: Output of the power function: 16.0
+2022-04-16 16:59:54.539 [main] INFO  miniCalculator - [INFO]: Input for the power function: 0.0 , 0.0
+2022-04-16 16:59:54.540 [main] INFO  miniCalculator - [INFO]: Output of the power function: NaN
+2022-04-16 17:00:09.514 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 10.0
+2022-04-16 17:00:09.518 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 3.1622776601683795
+2022-04-16 17:00:13.674 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 10.0
+2022-04-16 17:00:13.674 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 3628800.0
+2022-04-16 17:00:18.291 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 10.0
+2022-04-16 17:00:18.292 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 2.302585092994046
+2022-04-16 17:00:22.261 [main] INFO  miniCalculator - [INFO]: Input for the power function: 10.0 , 10.0
+2022-04-16 17:00:22.262 [main] INFO  miniCalculator - [INFO]: Output of the power function: 1.0E10
+2022-04-16 17:00:27.712 [main] ERROR miniCalculator - [ERROR]: Square root is defined only for Positive numbers
+2022-04-16 17:00:32.158 [main] ERROR miniCalculator - [ERROR]: Factorial is defined only for Positive numbers
+2022-04-16 17:01:45.081 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 2.0
+2022-04-16 17:01:45.088 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 2.0
+2022-04-16 17:01:45.089 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 0.0
+2022-04-16 17:01:45.102 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 1.0
+2022-04-16 17:01:45.103 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 16.0
+2022-04-16 17:01:45.103 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 4.0
+2022-04-16 17:01:45.104 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 256.0
+2022-04-16 17:01:45.104 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 16.0
+2022-04-16 17:01:45.105 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 10.0
+2022-04-16 17:01:45.105 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 2.302585092994046
+2022-04-16 17:01:45.105 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 100.0
+2022-04-16 17:01:45.105 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 4.605170185988092
+2022-04-16 17:01:45.106 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 4.0
+2022-04-16 17:01:45.106 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 2.0
+2022-04-16 17:01:45.107 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 16.0
+2022-04-16 17:01:45.107 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 4.0
+2022-04-16 17:01:45.107 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 100.0
+2022-04-16 17:01:45.108 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 4.605170185988092
+2022-04-16 17:01:45.108 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 10.0
+2022-04-16 17:01:45.109 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 2.302585092994046
+2022-04-16 17:01:45.110 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 3.0
+2022-04-16 17:01:45.111 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 6.0
+2022-04-16 17:01:45.111 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 4.0
+2022-04-16 17:01:45.111 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 24.0
+2022-04-16 17:01:45.112 [main] INFO  miniCalculator - [INFO]: Input for the power function: 4.0 , 2.0
+2022-04-16 17:01:45.112 [main] INFO  miniCalculator - [INFO]: Output of the power function: 16.0
+2022-04-16 17:01:45.113 [main] INFO  miniCalculator - [INFO]: Input for the power function: 0.0 , 0.0
+2022-04-16 17:01:45.114 [main] INFO  miniCalculator - [INFO]: Output of the power function: NaN
+2022-04-16 17:01:45.114 [main] INFO  miniCalculator - [INFO]: Input for the power function: 4.0 , 2.0
+2022-04-16 17:01:45.115 [main] INFO  miniCalculator - [INFO]: Output of the power function: 16.0
+2022-04-16 17:01:45.115 [main] INFO  miniCalculator - [INFO]: Input for the power function: 0.0 , 0.0
+2022-04-16 17:01:45.115 [main] INFO  miniCalculator - [INFO]: Output of the power function: NaN
+2022-04-16 17:01:54.573 [main] ERROR miniCalculator - [ERROR]: Factorial is defined only for Positive numbers
+2022-04-16 17:02:00.818 [main] INFO  miniCalculator - [INFO]: Input for the power function: 0.0 , 0.0
+2022-04-16 17:02:00.818 [main] INFO  miniCalculator - [INFO]: Output of the power function: NaN
+2022-04-16 17:15:06.727 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 10.0
+2022-04-16 17:15:06.734 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 3.1622776601683795
+2022-04-18 12:23:36.034 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 2.0
+2022-04-18 12:23:36.039 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 2.0
+2022-04-18 12:23:36.040 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 0.0
+2022-04-18 12:23:36.054 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 1.0
+2022-04-18 12:23:36.057 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 16.0
+2022-04-18 12:23:36.057 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 4.0
+2022-04-18 12:23:36.058 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 256.0
+2022-04-18 12:23:36.058 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 16.0
+2022-04-18 12:23:36.059 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 10.0
+2022-04-18 12:23:36.059 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 2.302585092994046
+2022-04-18 12:23:36.059 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 100.0
+2022-04-18 12:23:36.060 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 4.605170185988092
+2022-04-18 12:23:36.060 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 4.0
+2022-04-18 12:23:36.061 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 2.0
+2022-04-18 12:23:36.061 [main] INFO  miniCalculator - [INFO]: Input for the Square Root function: 16.0
+2022-04-18 12:23:36.061 [main] INFO  miniCalculator - [INFO]: Output of the Square Root function: 4.0
+2022-04-18 12:23:36.062 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 100.0
+2022-04-18 12:23:36.062 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 4.605170185988092
+2022-04-18 12:23:36.062 [main] INFO  miniCalculator - [INFO]: Input for the Natural Logarithm function: 10.0
+2022-04-18 12:23:36.063 [main] INFO  miniCalculator - [INFO]: Output of the Natural Logarithm function: 2.302585092994046
+2022-04-18 12:23:36.063 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 3.0
+2022-04-18 12:23:36.064 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 6.0
+2022-04-18 12:23:36.064 [main] INFO  miniCalculator - [INFO]: Input for the Factorial function: 4.0
+2022-04-18 12:23:36.065 [main] INFO  miniCalculator - [INFO]: Output of the Factorial function: 24.0
+2022-04-18 12:23:36.066 [main] INFO  miniCalculator - [INFO]: Input for the power function: 4.0 , 2.0
+2022-04-18 12:23:36.066 [main] INFO  miniCalculator - [INFO]: Output of the power function: 16.0
+2022-04-18 12:23:36.067 [main] INFO  miniCalculator - [INFO]: Input for the power function: 0.0 , 0.0
+2022-04-18 12:23:36.069 [main] INFO  miniCalculator - [INFO]: Output of the power function: NaN
+2022-04-18 12:23:36.070 [main] INFO  miniCalculator - [INFO]: Input for the power function: 4.0 , 2.0
+2022-04-18 12:23:36.070 [main] INFO  miniCalculator - [INFO]: Output of the power function: 16.0
+2022-04-18 12:23:36.071 [main] INFO  miniCalculator - [INFO]: Input for the power function: 0.0 , 0.0
+2022-04-18 12:23:36.071 [main] INFO  miniCalculator - [INFO]: Output of the power function: NaN
