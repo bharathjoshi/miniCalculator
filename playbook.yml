@@ -1,8 +1,8 @@
 ---
-- name: Deploy a jar file
+- name: Pulling docker image
   hosts: all
   tasks:
-    - name: Copy jar file to home directory
-      copy:
-        src: ./target/miniCalculator-1.0-SNAPSHOT-jar-with-dependencies.jar
-        dest: ~/
+    - name: pulling
+      docker_image:
+        name: bharathjoshi/minicalculator
+        sorce: pull
